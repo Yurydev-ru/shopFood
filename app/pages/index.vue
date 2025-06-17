@@ -6,5 +6,7 @@
 </script>
 
 <template>
-    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, iure.</div>
+    <section class="section">
+        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, iure.</div>
+    </section>
 </template>
